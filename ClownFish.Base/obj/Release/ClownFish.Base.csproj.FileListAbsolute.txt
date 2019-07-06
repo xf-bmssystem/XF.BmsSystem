@@ -1,0 +1,16 @@
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\ClownFish.Base.XML
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\ClownFish.Base.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\ClownFish.Base.pdb
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\Newtonsoft.Json.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\Newtonsoft.Json.xml
+E:\MyProject\FeiLiuSystem\ClownFish.Base\obj\Release\ClownFish.Base.csprojAssemblyReference.cache
+E:\MyProject\FeiLiuSystem\ClownFish.Base\obj\Release\ClownFish.Base.csproj.CoreCompileInputs.cache
+E:\MyProject\FeiLiuSystem\ClownFish.Base\obj\Release\ClownFish.Base.csproj.CopyComplete
+E:\MyProject\FeiLiuSystem\ClownFish.Base\obj\Release\ClownFish.Base.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\obj\Release\ClownFish.Base.pdb
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\ICSharpCode.SharpZipLib.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\NPOI.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\NPOI.OOXML.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\NPOI.OpenXml4Net.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\NPOI.OpenXmlFormats.dll
+E:\MyProject\FeiLiuSystem\ClownFish.Base\bin\ICSharpCode.SharpZipLib.xml

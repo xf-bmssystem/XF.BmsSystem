@@ -1,0 +1,11 @@
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.Models\bin\Debug\XF.BmsSystem.Models.dll
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.Models\bin\Debug\XF.BmsSystem.Models.pdb
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.csprojAssemblyReference.cache
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.dll
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.pdb
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.Models\bin\Debug\XF.BmsSystem.Models.dll
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.Models\bin\Debug\XF.BmsSystem.Models.pdb
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.dll
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.Models\obj\Debug\XF.BmsSystem.Models.pdb

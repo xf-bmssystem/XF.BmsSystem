@@ -1,0 +1,11 @@
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.DAL\bin\Debug\XF.BmsSystem.DAL.dll
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.DAL\bin\Debug\XF.BmsSystem.DAL.pdb
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.csprojAssemblyReference.cache
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.dll
+C:\Users\liyif\Desktop\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.pdb
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.DAL\bin\Debug\XF.BmsSystem.DAL.dll
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.DAL\bin\Debug\XF.BmsSystem.DAL.pdb
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.dll
+\\Mac\Home\Desktop\私活\李易峰\XF.BmsSystem\XF.BmsSystem.DAL\obj\Debug\XF.BmsSystem.DAL.pdb
